@@ -1,0 +1,3 @@
+Shuffled labels, 10 runs:
+  test R2:       -0.367 +/- 0.094
+  test Spearman: -0.047 +/- 0.085

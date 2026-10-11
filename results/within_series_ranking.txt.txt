@@ -1,0 +1,17 @@
+                                scaffold  n  obs_std  spearman  mean_abs_err
+     O=C(Nc1ccccc1)C1CC(=O)N(C2CCCCC2)C1 26     0.67      0.30          0.93
+ O=C(CN1C(=O)C(=Cc2ccccc2)SC1=S)c1ccccc1 23     0.37      0.32          0.51
+                     c1ccc(Oc2ccccc2)cc1 20     0.89      0.14          0.81
+O=C(NC1CCN(C(=O)c2coc3ccccc23)C1)c1ccn[n 19     0.81      0.75          0.50
+     c1ccc2c(Nc3ccc(N4CCCCC4)cc3)ccnc2c1 16     0.63      0.04          0.52
+                  O=C(Nc1ccccc1)c1ccccc1 15     0.41      0.74          0.20
+         O=C(c1ccccc1)N1CCN(c2ccccc2)CC1 13     0.43      0.41          0.31
+O=C(c1ccccc1)N1CCN(C2c3ccccc3-c3ccccc32) 10     0.55      0.07          1.03
+Bits 1956 and 488 on identical molecules: False
+scaffold
+O=C(NC1CCN(C(=O)c2coc3ccccc23)C1)c1ccn[nH]1                      19
+O=C(NC1CC(C(=O)NCc2ccccc2)N(C(=O)c2coc3ccccc23)C1)c1ccn[nH]1      4
+O=C(NC1CC(C(=O)NCCc2ccccc2)N(C(=O)c2coc3ccccc23)C1)c1ccn[nH]1     2
+O=C(NC1CC(C(=O)NCCc2ccccn2)N(C(=O)c2coc3ccccc23)C1)c1ccn[nH]1     2
+O=C(NCc1ccccc1)c1ccc(Cn2cccn2)cc1                                 2
+Name: count, dtype: int64

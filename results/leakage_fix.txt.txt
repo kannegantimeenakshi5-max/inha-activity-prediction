@@ -1,0 +1,3 @@
+Identical-fingerprint partners across train/test (scaffold groups): 6
+Scaffold groups: 144 | merged groups: 140
+After merging: 0
